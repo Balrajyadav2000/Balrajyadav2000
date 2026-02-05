@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently working at R S VENTURES<br>im a full stack developer<br>JAVA SPRING BOOT and Anjular Js<br>
+Im currently working at R S VENTURES<br>im a full stack developer<br>Currently working on JAVA SPRING BOOT and Anjular Js<br>
 
 
 ## 🌐 Socials:
